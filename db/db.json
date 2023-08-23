@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "taskName": "task1",
+      "isFinished": false
+    },
+    {
+      "id": 2,
+      "taskName": "task2",
+      "isFinished": true
+    },
+    {
+      "id": 3,
+      "taskName": "task3",
+      "isFinished": false
+    },
+    {
+      "id": 4,
+      "taskName": "task4",
+      "isFinished": false
+    },
+    {
+      "taskName": "test",
+      "isFinished": false,
+      "id": 5
+    },
+    {
+      "taskName": "test",
+      "isFinished": false,
+      "id": 6
+    },
+    {
+      "taskName": "test",
+      "isFinished": false,
+      "id": 7
+    },
+    {
+      "taskName": "task8",
+      "isFinished": false,
+      "id": 8
+    },
+    {
+      "taskName": "Task 9",
+      "isFinished": false,
+      "id": 9
+    }
+  ]
+}
